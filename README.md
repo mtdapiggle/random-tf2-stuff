@@ -41,3 +41,31 @@ vs
 also, i just got some of my frc cad stuff checked by bartosz, and he said to put .stl file commits, so i'm gonna do that 
 ![image](https://github.com/user-attachments/assets/14b823af-6a08-4ac1-8405-6517eb348e31)
 i do have a small feeling that the middle band is a bit too small, so i might expand that out (leading to more adjustments...)
+
+# session 2:
+aajsdflkajs;djasdf
+![image](https://github.com/user-attachments/assets/d0a40ded-e795-472f-81e8-7e48d14aee61)
+oh this is scuffed. 
+![image](https://github.com/user-attachments/assets/d20c15f3-557e-41a7-9ed2-0519112c5641)
+super zoomed in. 
+![image](https://github.com/user-attachments/assets/6304ed8e-0287-4ee8-8591-844c977d3d65)
+epic. 
+i might add a small fillet on the tip of the sticky bombs, since they could be spiky. 
+![image](https://github.com/user-attachments/assets/0b703ba4-0a14-4495-a96f-318c57919343)
+aye i think i got the proportion right first try!
+![image](https://github.com/user-attachments/assets/e79663dd-8a34-4adc-bfd0-857d80a021cb)
+oh i forgot the axis. 
+![image](https://github.com/user-attachments/assets/f9a9669a-3186-424c-be99-43dece5f4c59)
+ka blooey !!!
+![image](https://github.com/user-attachments/assets/08011e5f-1e7b-41e2-8563-e1de808b9090)
+oh.
+well.
+uhhhhhhhhhh surely it's fine !!!
+i'll just use a loft later to fix it up. 
+![image](https://github.com/user-attachments/assets/f66e8049-6ead-4666-873d-783d5a119e4f)
+this is so scuffed i swear. 
+![image](https://github.com/user-attachments/assets/a37b55c5-c37a-4b68-aaa2-61b697498a49)
+so i forgot that i had put revolve on new, but i can't really change that or it messes a couple of things up. 
+![image](https://github.com/user-attachments/assets/d416e418-c575-4f3d-b5b0-de0972d48753)
+kaboooooooom !
+ok, small problem, i have to spam boolean and loft now. 
