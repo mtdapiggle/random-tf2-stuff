@@ -108,3 +108,39 @@ gjlksdjfa;sdkjfa;sdfjlsd
 surely nothing goes badly. 
 ![image](https://github.com/user-attachments/assets/1bca99b3-c527-4ee5-beb1-3e2ea424d2f8)
 where are the threads ????
+
+# session 4:
+ajsdlkfjas;lkdfja;lsdkjfa;slkdfj
+i'm so confuseddddddd.
+https://www.google.com/search?q=how+to+use+external+thread+in+onshape&rlz=1C1RXQR_en-GBAU1045AU1045&oq=how+to+use+external+thread+in+onshape&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjINCAQQABiGAxiABBiKBTINCAUQABiGAxiABBiKBTIKCAYQABiABBiiBDIKCAcQABiABBiiBNIBCDQ2NjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:f8a35935,vid:x0Oa6XuRaH8,st:29
+i watched this video about how to use external threads, and tl:dr, it basically said that the external threads thing doesn't actually do anything much, and only shows up in drawings. ashdfjadsfa;sdfjlksdfds
+well ok. 
+https://www.boltandnut.com.au/thread-pitch-chart
+i found this, because i needed it for the helix. 
+now, i also don't know the difference between coarse and fine, so that's fun. 
+![image](https://github.com/user-attachments/assets/af2f0358-0bc8-4ea5-a843-b50d2e52d05c)
+oh ok.
+i think i'll go with coarse. 
+![image](https://github.com/user-attachments/assets/6d99cdd9-9e6c-48f7-9878-3dc6c92aad37)
+it says that it's undefined, but i don't trust it. 
+![image](https://github.com/user-attachments/assets/2da85605-e060-4064-b352-83ef5e35e464)
+uh why doesn't it work. 
+my wifi is down right now, so i have to work with a hotspot and it makes things super duper laggy and painful to work with, things don't update immediately and it's a pain.
+![image](https://github.com/user-attachments/assets/23910817-d954-4501-82bf-cbec840192fc)
+dudeeeeeeeeeeeee
+![image](https://github.com/user-attachments/assets/f3fc964d-e5a1-487b-b151-5564d4e6b83b)
+bruh... ok. i guess i'll reduce the size of the triangle. 
+![image](https://github.com/user-attachments/assets/66344e92-d0d5-412c-b573-7ac756936cda)
+whyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+BROOOO IT JUST DOESN'T WORK NO MATTER WHAT I DOOOOOOOOOO
+i read some of the other people's problems, and i'm gonna see if the solutions work. 
+i decided to get a thread featurescript, but onshape decided to disconnect me, rip. 
+actually nevermind it's my hotspot. jflaksjd;flkajsdf;lkajsfd
+![image](https://github.com/user-attachments/assets/55619d2b-f791-4a5f-bf58-a485e6f14572)
+hmmmm yes, quite updated. 
+![image](https://github.com/user-attachments/assets/0b8f7488-45d6-478d-b055-fdb0fe0ec809)
+well the featurescript works!
+![image](https://github.com/user-attachments/assets/63a8bbf2-fe31-4f69-839c-ad8f0f32e0b0)
+everything has been threaded. 
+
+
