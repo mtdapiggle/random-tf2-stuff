@@ -69,3 +69,42 @@ so i forgot that i had put revolve on new, but i can't really change that or it 
 ![image](https://github.com/user-attachments/assets/d416e418-c575-4f3d-b5b0-de0972d48753)
 kaboooooooom !
 ok, small problem, i have to spam boolean and loft now. 
+
+# session 3:
+boolean and loft spamming time. 
+![image](https://github.com/user-attachments/assets/e4427858-546f-41d5-9f77-8c74d17028d2)
+it has been done. 
+ok, so now i have to figure out a way to make it so that you can fuse them together without any glue or stuff. 
+hmmmmmmmmmm.
+it has to be secure but you also should be able to assemble it easily. 
+https://www.youtube.com/watch?v=VKZoNRtd_5I
+i watched through this video and realised that the only feasible way is probably going to be threads. now i don't know how i'm going to incorporate them in, but i have to do it somehow. 
+![image](https://github.com/user-attachments/assets/2dc0ff47-5704-489d-92a7-87cd2c9e66b2)
+i have the idea of putting a circle in the sketch.
+![image](https://github.com/user-attachments/assets/818b5ab0-8a4a-498f-8cce-7e44cadad32a)
+uh that's not good. 
+hmmmmmmm, ok time to make a new sketch. 
+![image](https://github.com/user-attachments/assets/f3f89b07-96bd-49ac-8fc3-87b2404dd660)
+this should work. 
+i kinda realised that i need some tolerances. 
+![image](https://github.com/user-attachments/assets/10d7cb01-90e1-4ce4-89d7-e291f96bb935)
+uhhhhh i can't click on sketch 3.
+![image](https://github.com/user-attachments/assets/99eef6aa-845f-4f92-b166-5b4efe1e679f)
+i can't even hide them. 
+asdkfjas;dfjas;dkjas;fkajdsfasdf
+idk what to doooo
+i've never had this problem with extrudes. 
+![image](https://github.com/user-attachments/assets/6dac654a-d5d5-4392-8222-23f9c0c90afb)
+i eventually figured out that i needed to deselect all of the parts, and then reselect them again. 
+![image](https://github.com/user-attachments/assets/ca1e7216-8bec-4156-9534-240ad540484e)
+i don't really know how threads work, so this is going to be fun. 
+ok, so i deselected the cylinder edge near the spike and now it says that there's no exact size match for the thread ???
+hmmmmmmmm this confuses me. 
+![image](https://github.com/user-attachments/assets/a915c075-38a2-457a-b57f-436a8b2b1cc1)
+oh so it's 1:1 ohhhhhhhhhhhh
+ok, so i think i need to make it 30mm thick, but that would also mess up on the threads for the other bands.
+gjlksdjfa;sdkjfa;sdfjlsd
+![image](https://github.com/user-attachments/assets/72dbfb1d-8c48-4f19-94cd-501ec2f3c27f)
+surely nothing goes badly. 
+![image](https://github.com/user-attachments/assets/1bca99b3-c527-4ee5-beb1-3e2ea424d2f8)
+where are the threads ????
