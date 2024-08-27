@@ -143,4 +143,33 @@ well the featurescript works!
 ![image](https://github.com/user-attachments/assets/63a8bbf2-fe31-4f69-839c-ad8f0f32e0b0)
 everything has been threaded. 
 
-
+# session 5:
+i kinda wanted to work on another thing next, so i chose the sentry gun. now, uhhhhhh
+level 1 is the easiest to make, but i also kinda wanna do level 2, not sure how it'll pan out though.
+![image](https://github.com/user-attachments/assets/ad2af01a-4eed-467c-87b5-b905d69c26b4)
+i'll be using this image as a reference. i think the hardest bit will be the ammunition belts. i could either make it so that it's printed by itself as a full thing (although it could work with a decent amount of tolerances), or i can make it like an actual belt, and i also have to make a mounting point for it.
+i would also like to be able to spin the barrels and move the sentry gun left and right, and up and down somehow, but it should be able to happen by just copying the design and putting some hardstops with the mount to make it stop when it reaches a ceterin point
+hmmmmmmmmmmmmmmmmmm, i think i might start with the middle part of the sentry gun (not the barrels)
+arghhh i have a headache, it hurts even more when i cad, but i must cad for that logitech mx mechanical 😭
+![image](https://github.com/user-attachments/assets/ef893f67-ee62-4919-90ed-fd47c74270dd)
+i think this might work?
+![image](https://github.com/user-attachments/assets/07169ad0-e583-4781-a07e-cec28ffd8e99)
+maybe i need to adjust things. 
+![image](https://github.com/user-attachments/assets/3fc70b17-49b5-4a28-a56d-09d9051764b4)
+it couljd be the camera angle, but i feel like the back bit is slightly tilted downwards, and that the rectangle thing on the circle thing (i'm so good at describing) is smaller at the bottom, but larger at the top.
+i think i'm right, time to use loft. 
+![image](https://github.com/user-attachments/assets/f0382ff0-2ff0-4d56-8d18-0058b0571a66)
+this might be too much of a reduction, but idk. 
+![image](https://github.com/user-attachments/assets/3c7c32e4-36a0-47a0-b09c-5736daed433e)
+too much, and i just realised that i could just use draft. 
+![image](https://github.com/user-attachments/assets/d5cb57dc-de4c-4830-bae5-0d4f81bcd450)
+tis might be enough. 
+![image](https://github.com/user-attachments/assets/322b9e02-8660-4858-8f7c-fa8ead6ebefb)
+that works out. 
+![image](https://github.com/user-attachments/assets/a06693de-19c1-4bd7-84d1-33d15edb358a)
+the bottom part of the rectangle bit needs to be a bit off the ground. 
+![image](https://github.com/user-attachments/assets/ca51ae38-368a-4749-8de0-b6cc09ec8aff)
+the shape here is quite interesting, idk how to make it. fjsladjflksajdf;asdf
+i feel like there's a way but idk how. 
+argh it hurts my head to think of a solution
+akldsa;aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
