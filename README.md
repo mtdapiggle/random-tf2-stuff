@@ -173,3 +173,31 @@ the shape here is quite interesting, idk how to make it. fjsladjflksajdf;asdf
 i feel like there's a way but idk how. 
 argh it hurts my head to think of a solution
 akldsa;aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+# session 6:
+![image](https://github.com/user-attachments/assets/5b78347d-a6c6-4403-a2bf-01e0db1d7cb5)
+let me cook
+![image](https://github.com/user-attachments/assets/de333a8b-c928-43dd-b8e4-0cafde6c9309)
+I'VE COOKED. 
+![image](https://github.com/user-attachments/assets/ad7776a9-4097-4728-b1f8-fe0ce1e294d8)
+oh god i can't select edges nooooooooooooooooooooo
+nevermind there's mate connectors. 
+![image](https://github.com/user-attachments/assets/42fb2dd8-96b0-42ef-807f-4c5bcffe7484)
+side view. 
+i might need to tweak some of the drafts. 
+![image](https://github.com/user-attachments/assets/b97a8f04-48f2-497c-a754-7e82caf879e9)
+uh a bit too much. 
+i might actually just keep 80 degrees. 
+![image](https://github.com/user-attachments/assets/6c15cceb-8193-4640-a108-d655a5ff48f3)
+ok cool. time to work on the small details. 
+![image](https://github.com/user-attachments/assets/7d17347b-5c25-4519-b215-555f7eac8f2f)
+oh. ok. 
+
+![image](https://github.com/user-attachments/assets/56f12f24-3a92-45d4-90a5-3c203ffa1355)
+maybe that's too much. 
+![image](https://github.com/user-attachments/assets/44c8c7ea-5116-4d0c-9489-354f41cd2faf)
+mmmm yummy.
+![image](https://github.com/user-attachments/assets/8a5a87a4-a54d-4ba9-b57d-98fbe7901c75)
+progress.
+![Uploading image.png…]()
+ayeeee that's good. 
