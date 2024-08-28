@@ -199,5 +199,37 @@ maybe that's too much.
 mmmm yummy.
 ![image](https://github.com/user-attachments/assets/8a5a87a4-a54d-4ba9-b57d-98fbe7901c75)
 progress.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f8ee5c1e-5d5b-4ab4-884e-f1092cc7516f)
 ayeeee that's good. 
+
+# session 7:
+![image](https://github.com/user-attachments/assets/b769ee26-9d80-4083-a1ed-302e9445fa9d)
+epic.
+![image](https://github.com/user-attachments/assets/5cb38b9b-ce9f-4185-bc8f-48111ecaf60a)
+i think i need to make the distance between the top and hte bottom of the cylinder to the box smaller, since in the pictures its smaller. 
+![image](https://github.com/user-attachments/assets/4fc90764-f234-4cf9-a050-260072f31f40)
+i was trying to make a sweep path but i can't make it coincident to the curve. 
+hmmmmmmmmmm.
+jasdkfjasdljasdf idk what to do....
+i can't coincident to the curve, and i can't figure out what the radius of a circle needs to be at a specific distance from the bottom... (i haven't been taught the maths for it yet)
+hmglkdahmlakdjh
+i could either learn the math from a youtube video, but i'm not even sure how i'm meant to word my search, so...
+hmmmmmmmmmmmmmmmmflksadjf;aklsd
+huuuuuuuuuuuuuuuuuuuuuuuuuhhhhja;sdfjsdaf
+![image](https://github.com/user-attachments/assets/2d7df967-6d18-4015-b0a3-a866c36e26f1)
+OH WATI I'M COOKING HOLY
+![image](https://github.com/user-attachments/assets/1118fa66-2f54-4600-b9ea-eb0328de0d64)
+I'VE COOKED.
+![image](https://github.com/user-attachments/assets/7403374d-d384-4e19-8b2a-bb651608fe2e)
+uh oh. 
+![image](https://github.com/user-attachments/assets/cc0d275a-8780-4941-9b46-35a690594df3)
+whilst i was tying to fix things, i realised that the box isn't entirely connected to the face of the cylinder/cone thingy. 
+![image](https://github.com/user-attachments/assets/235af666-4fe8-4da7-9488-27e404293ea6)
+and it's alllll fixed !
+before i move on, i kinda wanna make a way to put the different parts together, this time, i think for the circular bits, i will keep it as a thread , but for rectangular bits, i think i might make it a press fit.
+![image](https://github.com/user-attachments/assets/b112524d-8e92-4dac-8bb1-4914d42e0e6a)
+wait... it wasn't symmetric?
+![image](https://github.com/user-attachments/assets/82a22f7f-b20b-4af5-bea7-697d6af88a97)
+welp ok.
+![Uploading image.png…]()
+this should work. 
