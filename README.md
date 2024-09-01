@@ -231,5 +231,25 @@ before i move on, i kinda wanna make a way to put the different parts together, 
 wait... it wasn't symmetric?
 ![image](https://github.com/user-attachments/assets/82a22f7f-b20b-4af5-bea7-697d6af88a97)
 welp ok.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/2ad48cf3-8abf-4489-8851-e4db5ba990da)
 this should work. 
+
+# session 8:
+i'm not entirely sure where to go right now. i could attempt to do the belts, but i think i'd need the barrels for it, i could do the barrels, but they have to be mounted onto the legs, so i guess i'm making legs first.
+i can't really get a good look for how the sentry's targetting thingy is mounted to the legs, because most pictures i find are from the front/front right or front left, or it's directly from the side, where the ammo belts block the view. 
+jkldjf;askfjasfjasdf
+fun.
+![Screenshot 2024-08-31 223115](https://github.com/user-attachments/assets/071dc261-4c67-461e-bdbc-ae4c3d8d184e)
+small example of the pain. (you can literally see no views)
+now, i could boot up tf2 and look at it myself, but i kinda don't have the time for that. 
+so i just pieced together some things that i could see from the level 2 sentry, and just took the design from the level 1 sentry, and just mounted the arm/thing that lets the sentry aim up and down to where it is on the level 2 sentry, since it's much easier to look at it from photos of the level 1 sentry. 
+![image](https://github.com/user-attachments/assets/8905b96b-6a47-4591-9ec2-db0ad2080644)
+uhhhhhhhhhhhhhhhhhhhh
+i think i might have to separate them. 
+![image](https://github.com/user-attachments/assets/42d22591-f3aa-4ca4-baab-f7373c247cff)
+i feel like where the mount interfaces with the targety thingy is not exactly in the middle, but i'm not sure. 
+![image](https://github.com/user-attachments/assets/2e57366f-51ce-4678-9457-264fc5e3f1d3)
+ok cool. 
+![Uploading image.png…]()
+turns out that i have it the wrong way around, it's meant to be the light blue one that's meant to be thinner, and the darker blue one that's meatn to be thicker. 
+this is going to require a complete overhaul. yipppeeeeee.
