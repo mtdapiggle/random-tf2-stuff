@@ -1,3 +1,14 @@
+
+
+
+![image](https://github.com/user-attachments/assets/93a7bfb9-7485-49b4-80d4-66ed36df6aa1)
+sentry gun (it's scuffed)
+![image](https://github.com/user-attachments/assets/3f7b6839-337f-4690-8fb6-aaf06c6ea277)
+stickybomb
+printables link: https://www.printables.com/model/997991-sentry-gun-tf2-but-its-a-third-finished-with-stick
+
+
+
 # random-tf2-stuff
 yea
 
